@@ -18,7 +18,7 @@ To revolutionize how people interact with AI by creating seamless, intuitive, an
    - Backend powered by Firebase and Google Cloud Functions.  
    - Manages API logic, session data, and user interactions.  
 
-3. **[convofy-website](https://github.com/Convofy/convofy-website)**  
+3. **[convofy-web](https://github.com/Convofy/convofy-web)**  
    - Marketing and informational website.  
    - Showcases app features, user testimonials, and support resources.  
 
