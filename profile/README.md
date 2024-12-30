@@ -2,12 +2,10 @@
 
 Convofy is your next-generation conversational AI platform that bridges the gap between natural language processing and user-friendly applications. We are dedicated to building innovative solutions that enhance communication and learning experiences through cutting-edge technology.  
 
----
 
 ## 🚀 Our Mission  
 To revolutionize how people interact with AI by creating seamless, intuitive, and engaging conversational tools for personal and professional use.  
 
----
 
 ## 📂 Repositories  
 
@@ -24,7 +22,6 @@ To revolutionize how people interact with AI by creating seamless, intuitive, an
    - Marketing and informational website.  
    - Showcases app features, user testimonials, and support resources.  
 
----
 <!--
 ## 🌟 Get Involved  
 
@@ -34,7 +31,6 @@ Here’s how you can get started:
 2. **Open Issues**: Found a bug or have a feature request? Let us know in the respective repo’s issue tracker.  
 3. **Join Discussions**: Participate in discussions to help shape the future of Convofy.  
 -->
----
 
 ## 🛠️ Tools & Technology  
 
@@ -44,7 +40,6 @@ Our stack is built using cutting-edge tools and technologies:
 - **AI Integration**: OpenAI GPT, Google Cloud Speech-to-Text, Text-to-Speech APIs.  
 - **Infrastructure**: GitHub Actions, Terraform, CI/CD pipelines.  
 
----
 
 ## 📧 Contact Us  
 
@@ -52,7 +47,6 @@ For inquiries, partnerships, or support, feel free to reach out:
 - **Email**: support@convofy.com  
 - **Website**: [Convofy.com](https://convofy.com)  
 
----
 
 ### 🔒 Licensing  
 
