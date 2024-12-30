@@ -10,11 +10,11 @@ To revolutionize how people interact with AI by creating seamless, intuitive, an
 ## 📂 Repositories  
 
 ### **Core Projects**  
-1. **[convofy-app](https://github.com/Convofy/convofy-app)**  
+1. **[convofy-mobile](https://github.com/Convofy/convofy-mobile)**  
    - Flutter-based mobile application.  
    - Features: Role-play scenarios, AI-powered chat, and real-time interaction.  
 
-2. **[convofy-backend](https://github.com/Convofy/convofy-backend)**  
+2. **[convofy-api](https://github.com/Convofy/convofy-api)**  
    - Backend powered by Firebase and Google Cloud Functions.  
    - Manages API logic, session data, and user interactions.  
 
